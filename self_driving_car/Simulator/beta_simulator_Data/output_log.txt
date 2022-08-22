@@ -1,0 +1,111 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e9b)
+    Vendor:   Intel
+    VRAM:     2136 MB
+    Driver:   26.21.14.4587
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.383 seconds
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: D:\AI\artificial_intelligence\self_driving_car\Simulator\beta_simulator_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.462000 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3718 -> priority: 1 
+  Thread -> id: 4a90 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.552400 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.395300 ms (FindLiveObjects: 0.035100 ms CreateObjectMapping: 0.036000 ms MarkObjects: 0.284100 ms  DeleteObjects: 0.017300 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.395700 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 1.150200 ms (FindLiveObjects: 0.140300 ms CreateObjectMapping: 0.046900 ms MarkObjects: 0.414000 ms  DeleteObjects: 0.548500 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.734500 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 522.
+Total: 2.914100 ms (FindLiveObjects: 0.033400 ms CreateObjectMapping: 0.015500 ms MarkObjects: 0.303500 ms  DeleteObjects: 2.560800 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296500 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1352.
+Total: 0.664300 ms (FindLiveObjects: 0.101400 ms CreateObjectMapping: 0.029500 ms MarkObjects: 0.292100 ms  DeleteObjects: 0.240500 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.856500 ms
+
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 1.643700 ms (FindLiveObjects: 0.019700 ms CreateObjectMapping: 0.013100 ms MarkObjects: 0.240000 ms  DeleteObjects: 1.370500 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.423700 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1353.
+Total: 0.620500 ms (FindLiveObjects: 0.083100 ms CreateObjectMapping: 0.024700 ms MarkObjects: 0.269000 ms  DeleteObjects: 0.242900 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.267300 ms
+
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 5.224200 ms (FindLiveObjects: 0.070000 ms CreateObjectMapping: 0.055500 ms MarkObjects: 0.625700 ms  DeleteObjects: 4.471600 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
